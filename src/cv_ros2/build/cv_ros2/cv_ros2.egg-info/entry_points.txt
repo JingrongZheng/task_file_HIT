@@ -1,0 +1,3 @@
+[console_scripts]
+pub_node=cv_ros2.img_pub:mainsub_node = cv_ros2.img_sub:main
+

@@ -1,0 +1,38 @@
+running egg_info
+creating build/cv_ros2/cv_ros2.egg-info
+writing build/cv_ros2/cv_ros2.egg-info/PKG-INFO
+writing dependency_links to build/cv_ros2/cv_ros2.egg-info/dependency_links.txt
+writing entry points to build/cv_ros2/cv_ros2.egg-info/entry_points.txt
+writing requirements to build/cv_ros2/cv_ros2.egg-info/requires.txt
+writing top-level names to build/cv_ros2/cv_ros2.egg-info/top_level.txt
+writing manifest file 'build/cv_ros2/cv_ros2.egg-info/SOURCES.txt'
+reading manifest file 'build/cv_ros2/cv_ros2.egg-info/SOURCES.txt'
+writing manifest file 'build/cv_ros2/cv_ros2.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build
+creating /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib
+creating /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2
+copying cv_ros2/__init__.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2
+copying cv_ros2/img_sub.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2
+copying cv_ros2/img_pub.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2
+running install
+running install_lib
+creating /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2
+copying /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2/__init__.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2
+copying /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2/img_sub.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2
+copying /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2/img_pub.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2
+byte-compiling /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2/img_sub.py to img_sub.cpython-38.pyc
+byte-compiling /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2/img_pub.py to img_pub.cpython-38.pyc
+running install_data
+creating /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/share/ament_index
+creating /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/share/ament_index/resource_index
+creating /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/share/ament_index/resource_index/packages
+copying resource/cv_ros2 -> /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/share/ament_index/resource_index/packages
+copying package.xml -> /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/share/cv_ros2
+running install_egg_info
+Copying build/cv_ros2/cv_ros2.egg-info to /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2-0.0.0-py3.8.egg-info
+running install_scripts
+Installing pub_node=cv_ros2.img_pub:mainsub_node script to /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/cv_ros2
+writing list of installed files to '/home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/install.log'

@@ -1,0 +1,40 @@
+[1.866s] Invoking command in '/home/ros2zjr/ws_TASK/src/cv_ros2': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/prefix_override:/home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/cv_ros2 build --build-base /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build install --record /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/install.log --install-scripts $base/lib/cv_ros2 --single-version-externally-managed
+[2.207s] running egg_info
+[2.208s] creating build/cv_ros2/cv_ros2.egg-info
+[2.210s] writing build/cv_ros2/cv_ros2.egg-info/PKG-INFO
+[2.210s] writing dependency_links to build/cv_ros2/cv_ros2.egg-info/dependency_links.txt
+[2.212s] writing entry points to build/cv_ros2/cv_ros2.egg-info/entry_points.txt
+[2.212s] writing requirements to build/cv_ros2/cv_ros2.egg-info/requires.txt
+[2.212s] writing top-level names to build/cv_ros2/cv_ros2.egg-info/top_level.txt
+[2.212s] writing manifest file 'build/cv_ros2/cv_ros2.egg-info/SOURCES.txt'
+[2.275s] reading manifest file 'build/cv_ros2/cv_ros2.egg-info/SOURCES.txt'
+[2.275s] writing manifest file 'build/cv_ros2/cv_ros2.egg-info/SOURCES.txt'
+[2.275s] running build
+[2.276s] running build_py
+[2.277s] creating /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build
+[2.277s] creating /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib
+[2.277s] creating /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2
+[2.277s] copying cv_ros2/__init__.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2
+[2.277s] copying cv_ros2/img_sub.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2
+[2.278s] copying cv_ros2/img_pub.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2
+[2.278s] running install
+[2.280s] running install_lib
+[2.282s] creating /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2
+[2.282s] copying /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2/__init__.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2
+[2.283s] copying /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2/img_sub.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2
+[2.283s] copying /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build/lib/cv_ros2/img_pub.py -> /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2
+[2.283s] byte-compiling /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2/__init__.py to __init__.cpython-38.pyc
+[2.285s] byte-compiling /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2/img_sub.py to img_sub.cpython-38.pyc
+[2.286s] byte-compiling /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2/img_pub.py to img_pub.cpython-38.pyc
+[2.286s] running install_data
+[2.288s] creating /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/share/ament_index
+[2.288s] creating /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/share/ament_index/resource_index
+[2.288s] creating /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/share/ament_index/resource_index/packages
+[2.288s] copying resource/cv_ros2 -> /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/share/ament_index/resource_index/packages
+[2.288s] copying package.xml -> /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/share/cv_ros2
+[2.289s] running install_egg_info
+[2.290s] Copying build/cv_ros2/cv_ros2.egg-info to /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages/cv_ros2-0.0.0-py3.8.egg-info
+[2.291s] running install_scripts
+[2.313s] Installing pub_node=cv_ros2.img_pub:mainsub_node script to /home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/cv_ros2
+[2.313s] writing list of installed files to '/home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/install.log'
+[2.339s] Invoked command in '/home/ros2zjr/ws_TASK/src/cv_ros2' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/prefix_override:/home/ros2zjr/ws_TASK/src/cv_ros2/install/cv_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/cv_ros2 build --build-base /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/build install --record /home/ros2zjr/ws_TASK/src/cv_ros2/build/cv_ros2/install.log --install-scripts $base/lib/cv_ros2 --single-version-externally-managed
